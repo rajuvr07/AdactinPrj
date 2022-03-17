@@ -24,8 +24,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\..\Adactin_interview\adactin\Api\Insurance.Api\Insurance.Models\Insurance.Models.csproj" />
-    <ProjectReference Include="..\..\..\..\..\Adactin_interview\adactin\Api\Insurance.Api\Insurance.Services\Insurance.Services.csproj" />
+    <ProjectReference Include="..\Insurance.Models\Insurance.Models.csproj" />
+    <ProjectReference Include="..\Insurance.Services\Insurance.Services.csproj" />
   </ItemGroup>
 
     <Target Name="DebugEnsureNodeEnv" BeforeTargets="Build" Condition=" '$(Configuration)' == 'Debug' And !Exists('$(SpaRoot)node_modules') ">

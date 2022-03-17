@@ -16,6 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Insurance.Models\Insurance.Models.csproj" />
     <ProjectReference Include="..\Insurance.Services\Insurance.Services.csproj" />
   </ItemGroup>
 
