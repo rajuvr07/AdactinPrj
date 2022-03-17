@@ -2,6 +2,9 @@
 
 namespace Insurance.Services
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public interface IPremiumService
     {
         /// <summary>

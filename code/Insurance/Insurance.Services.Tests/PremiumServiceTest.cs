@@ -5,6 +5,9 @@ using System;
 
 namespace Insurance.Services.Tests
 {
+    /// <summary>
+    /// 
+    /// </summary>
     [TestFixture]
     public class PremiumServiceTest
     {

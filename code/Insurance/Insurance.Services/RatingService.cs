@@ -1,5 +1,8 @@
 ﻿namespace Insurance.Services
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public class RatingService : IRatingService
     {
         private Dictionary<string, double> _occupations = new Dictionary<string, double>();

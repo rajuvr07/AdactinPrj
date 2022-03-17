@@ -1,5 +1,8 @@
 ﻿namespace Insurance.Models
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public class MonthlyPremiumModel
     {
         /// <summary>

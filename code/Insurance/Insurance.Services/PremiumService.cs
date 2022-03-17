@@ -2,6 +2,9 @@
 
 namespace Insurance.Services
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public class PremiumService : IPremiumService
     {
         private readonly IRatingService _ratingService;

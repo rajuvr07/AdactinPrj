@@ -1,5 +1,8 @@
 ﻿namespace Insurance.Services
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public interface IRatingService
     {
         /// <summary>
